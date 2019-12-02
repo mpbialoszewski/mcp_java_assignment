@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mab152_mcp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mab152_mcp_jar</output-path>
+    <root id="archive" name="mab152_mcp.jar">
+      <element id="module-output" name="mab152_mcp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/clerezza/ext/org.json.simple/0.4/org.json.simple-0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
